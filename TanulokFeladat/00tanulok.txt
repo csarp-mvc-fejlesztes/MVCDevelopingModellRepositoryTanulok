@@ -2,6 +2,8 @@ Péter;4
 János;3
 Péter;3
 Erzsi;2
+Boróka;1
 János;5
 Erzsi;5
+Manci;1
 János;3

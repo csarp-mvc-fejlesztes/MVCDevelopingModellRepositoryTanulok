@@ -19,7 +19,7 @@ namespace TanulokFeladat.Tarolo
 
         public void beolvas()
         {
-            StreamReader sr = new StreamReader("00tanulok.txt");
+            StreamReader sr = new StreamReader("../../00tanulok.txt");
             while (!sr.EndOfStream)
             {
                 string fajlsor = sr.ReadLine();

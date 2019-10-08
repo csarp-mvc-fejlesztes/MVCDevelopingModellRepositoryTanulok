@@ -1,0 +1,7 @@
+Péter;4
+János;3
+Péter;3
+Erzsi;2
+János;5
+Erzsi;5
+János;3
